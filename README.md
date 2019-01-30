@@ -1,68 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Choose Your Own Adventure
 
-## Available Scripts
+User Stories
+Landing page 
+display App Title
+A description of the app
+Hamburger button
+Sign in button
+Select story button
+User can create character choices
+Name, gender, age, etc
+Saved in state
+Gender determines the pronouns used throughout story
+Select storyline
+Drop down menu
+Story names
+Start where left off
+Story opens
+Hamburger button
+Top right
+Quit button
+Main page button		
+Text of story is displayed
+Top Center div
+Text is slowing displayed as if read
+User can click text to speed up process
+Certain words pertaining to choices are highlighted once choices are displayed
+Buttons are then displayed
+Buttons are displayed after user reads text
+User has options to display choices at a certain time
+Given choices with text on them 
+Timer is displayed below buttons
+Below choices
+Countdown
+Bars decreasing from outer to inner
+When time runs out a random choice is selected
+The universe chooses for you
+Sometimes you die based on the situation
+After choice is selected
+The next piece of the story line is displayed
+State is updated
+If user dies…
+Taken back to last checkpoint
+Time travel aspect
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Actual Storyline
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Starts in a timeless village
+Choices begin here 
+Not much electricity 
+Or outside influence
+People farm, etc
+There’s straw and hay and strange farm animals
+Hills, shire-like
+The little people live there
+Yaks, llamas, goats, whatever
+Character tries to leave village
+Or character stays
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
