@@ -1,32 +1,32 @@
 # Choose Your Own Adventure
 
-###User Stories
+### User Stories
 1. Landing page 
-    a. display App Title
-    b. A description of the app
-    c. Hamburger button
-        i. Sign in button
-    d. Select story button
-        i. User can create character choices
-            1. Name, gender, age, etc
-                a.Saved in state
-                b. Gender determines the pronouns used throughout story
-        ii. Select storyline
-            1.Drop down menu
-            2. Story names
-        iii.Start where left off
+    * display App Title
+    * A description of the app
+    * Hamburger button
+        1. Sign in button
+    * Select story button
+        1. User can create character choices
+            * Name, gender, age, etc
+                1. Saved in state
+                2. Gender determines the pronouns used throughout story
+        2. Select storyline
+            * Drop down menu
+            * Story names
+        3. Start where left off
 2. Story opens
-    a. Hamburger button
-        i. Top right
-        ii.Quit button
-            1.Main page button		
-    b. Text of story is displayed
-        i. Top Center div
-        ii. Text is slowing displayed as if read
-            1. User can click text to speed up process
-            2. Certain words pertaining to choices are highlighted once choices    are displayed
-        iii.Buttons are then displayed
-            1. Buttons are displayed after user reads text
+    * Hamburger button
+        1. Top right
+        2. Quit button
+            * Main page button		
+    * Text of story is displayed
+        1. Top Center div
+        2. Text is slowing displayed as if read
+            * User can click text to speed up process
+            * Certain words pertaining to choices are highlighted once choices    are displayed
+        3. Buttons are then displayed
+            * Buttons are displayed after user reads text
 User has options to display choices at a certain time
 Given choices with text on them 
 Timer is displayed below buttons
